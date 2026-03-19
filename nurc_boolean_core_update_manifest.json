@@ -1,12 +1,12 @@
 {
-    "version":  "0.1.7",
-    "addon_module":  "nurc_boolean_core",
-    "download_url":  "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.7/nurc_boolean_core_v0_1_7_update_remote_ready_20260319.zip",
-    "notes":  [
-                  "Nurc Boolean Core update channel manifest.",
-                  "Release 0.1.7 includes the validated external updater cross-drive fix from March 19, 2026.",
-                  "Installation remains external through the exported bridge."
-              ],
-    "published_utc":  "2026-03-19T19:40:00Z",
-    "channel":  "stable"
+    "version": "0.1.7",
+    "addon_module": "nurc_boolean_core",
+    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.7/nurc_boolean_core_v0_1_7_update_remote_ready_20260319.zip",
+    "notes": [
+        "Nurc Boolean Core 0.1.7",
+        "Initial public release for the external updater flow.",
+        "**Full Changelog**: https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/compare/v0.1.6...v0.1.7"
+    ],
+    "published_utc": "2026-03-19T18:47:47Z",
+    "channel": "stable"
 }
