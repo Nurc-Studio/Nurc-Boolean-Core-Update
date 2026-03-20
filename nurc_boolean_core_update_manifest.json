@@ -1,12 +1,12 @@
 {
-    "version": "0.1.15",
+    "version": "0.1.16",
     "addon_module": "nurc_boolean_core",
-    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.15/nurc_boolean_core_v0_1_15_update_version.zip",
+    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.16/nurc_boolean_core_v0_1_16_update_version.zip",
     "notes": [
         "Nurc Boolean Core update channel manifest.",
-        "Release 0.1.15 simplifies the update panel and makes the sidebar sections cleaner and easier to scan.",
-        "Companion Status, Quick Access and Settings keep the same behavior with a more compact presentation."
+        "Release 0.1.16 removes the redundant Remote, Last Installed, Last Result and Advanced update panel lines.",
+        "The Companion Status section is cleaner and no longer shows the redundant companion version line."
     ],
-    "published_utc": "2026-03-20T14:32:22Z",
+    "published_utc": "2026-03-20T15:26:11Z",
     "channel": "stable"
 }
