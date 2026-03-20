@@ -1,12 +1,12 @@
 {
-    "version": "0.1.16",
+    "version": "0.1.17",
     "addon_module": "nurc_boolean_core",
-    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.16/nurc_boolean_core_v0_1_16_update_version.zip",
+    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.17/nurc_boolean_core_v0_1_17_update_version.zip",
     "notes": [
         "Nurc Boolean Core update channel manifest.",
-        "Release 0.1.16 removes the redundant Remote, Last Installed, Last Result and Advanced update panel lines.",
-        "The Companion Status section is cleaner and no longer shows the redundant companion version line."
+        "Release 0.1.17 removes the Diagnostic Export section from the add-on preferences page.",
+        "The add-on preferences now merge Companion Status and Coexistence Bridge into a cleaner Companion & Bridge Status summary and detect both the renamed Nurc Pie Builder module and the legacy module."
     ],
-    "published_utc": "2026-03-20T15:26:11Z",
+    "published_utc": "2026-03-20T16:47:17Z",
     "channel": "stable"
 }
