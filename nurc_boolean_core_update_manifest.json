@@ -1,12 +1,12 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.13",
     "addon_module": "nurc_boolean_core",
-    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.11/nurc_boolean_core_v0_1_11_update_validation_ready_20260320.zip",
+    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.13/nurc_boolean_core_v0_1_13_update_cleanup_validation_ready_20260320.zip",
     "notes": [
         "Nurc Boolean Core update channel manifest.",
-        "Release 0.1.11 validates the Update and Restart fix above 0.1.10.",
-        "Installation remains external through the prepared folder or Update and Restart flow."
+        "Release 0.1.13 validates automatic cleanup after the 0.1.12 cleanup baseline.",
+        "Successful updates now remove prepared update folders and post-install backups automatically."
     ],
-    "published_utc": "2026-03-20T12:56:00Z",
+    "published_utc": "2026-03-20T13:08:46Z",
     "channel": "stable"
 }
