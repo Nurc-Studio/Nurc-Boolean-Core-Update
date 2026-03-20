@@ -1,12 +1,10 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "addon_module": "nurc_boolean_core",
-    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.7/nurc_boolean_core_v0_1_7_update_remote_ready_20260319.zip",
+    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.8/nurc_boolean_core_v0_1_8_update_and_restart_ready_20260320.zip",
     "notes": [
-        "Nurc Boolean Core 0.1.7",
-        "Initial public release for the external updater flow.",
-        "**Full Changelog**: https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/compare/v0.1.6...v0.1.7"
+        "**Full Changelog**: https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/compare/v0.1.7...v0.1.8"
     ],
-    "published_utc": "2026-03-19T18:47:47Z",
+    "published_utc": "2026-03-20T08:07:08Z",
     "channel": "stable"
 }
