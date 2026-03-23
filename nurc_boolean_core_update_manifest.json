@@ -1,12 +1,12 @@
 {
-    "version": "0.1.17",
-    "addon_module": "nurc_boolean_core",
-    "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.17/nurc_boolean_core_v0_1_17_update_version.zip",
-    "notes": [
-        "Nurc Boolean Core update channel manifest.",
-        "Release 0.1.17 removes the Diagnostic Export section from the add-on preferences page.",
-        "The add-on preferences now merge Companion Status and Coexistence Bridge into a cleaner Companion & Bridge Status summary and detect both the renamed Nurc Pie Builder module and the legacy module."
-    ],
-    "published_utc": "2026-03-20T16:47:17Z",
-    "channel": "stable"
+  "version": "0.1.18",
+  "addon_module": "nurc_boolean_core",
+  "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.18/nurc_boolean_core_v0_1_18_update_version.zip",
+  "notes": [
+    "Nurc Boolean Core update channel manifest.",
+    "Release 0.1.18 is a delivery hardening build: published ZIPs are cleaned and no longer contain __pycache__ or .pyc files.",
+    "A standalone release validation bundle now covers manifest coherence, external update contract structure, journal structure, archive integrity, dry run, install and rollback."
+  ],
+  "published_utc": "2026-03-23T10:45:29Z",
+  "channel": "stable"
 }
