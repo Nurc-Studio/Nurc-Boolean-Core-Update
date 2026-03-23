@@ -1,12 +1,12 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.21",
   "addon_module": "nurc_boolean_core",
-  "download_url": "https://github.com/Nurc-Studio/Nurc-Boolean-Core-Update/releases/download/v0.1.18/nurc_boolean_core_v0_1_18_update_version.zip",
+  "download_url": "https://github.com/Nurc-Studio/nurc-boolean-core-updates/releases/download/v0.1.21/nurc_boolean_core_v0_1_21_update_version.zip",
   "notes": [
-    "Nurc Boolean Core update channel manifest.",
-    "Release 0.1.18 is a delivery hardening build: published ZIPs are cleaned and no longer contain __pycache__ or .pyc files.",
-    "A standalone release validation bundle now covers manifest coherence, external update contract structure, journal structure, archive integrity, dry run, install and rollback."
+    "Release 0.1.21 moves the NBC diagnostic export action into the Update actions block directly under Export Bridge.",
+    "The button label is now Export Diagnostic Report and the old duplicate entry is removed from Quick Access.",
+    "NBC remains the owner of boolean business logic and the visible boolean workflow stays unchanged."
   ],
-  "published_utc": "2026-03-23T10:45:29Z",
+  "published_utc": "2026-03-23T15:28:34Z",
   "channel": "stable"
 }
